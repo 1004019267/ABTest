@@ -1,0 +1,29 @@
+ManifestFileVersion: 0
+CRC: 1464104728
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2a6e1a0a891e622d357f374099b4594e
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 43917c7e82ed3ae0a408b3ea37ec80f7
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/Wall.prefab
+Dependencies:
+- D:/UnityAss/AssetBundleProject/AssetBundles/StandaloneWindows/mat.ab
